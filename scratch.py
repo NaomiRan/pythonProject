@@ -6,4 +6,5 @@ for num in numbers:
     print(string)
 
 def createOne():
-    
+    z="this is one"
+    return 1
