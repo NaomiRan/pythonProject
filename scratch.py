@@ -5,6 +5,3 @@ for num in numbers:
         string += 'x'
     print(string)
 
-def createOne():
-    z="this is one"
-    return 1
