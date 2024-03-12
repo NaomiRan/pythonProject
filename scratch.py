@@ -6,4 +6,4 @@ for num in numbers:
     print(string)
 
 def createOne():
-    return 1
+    
