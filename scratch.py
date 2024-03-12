@@ -5,3 +5,5 @@ for num in numbers:
         string += 'x'
     print(string)
 
+def createOne():
+    return 1
