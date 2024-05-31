@@ -17,5 +17,5 @@
 str=input('Orginal String is  ')
 print('Printing only even index chars')
 
-for n in range(0,len(str)-1,2):
+for n in range(0,len(str)-1):
         print(str[n])
