@@ -19,5 +19,3 @@ print('Printing only even index chars')
 
 for n in range(0,len(str)-1,2):
         print(str[n])
-
-while n < len(str)-1:
